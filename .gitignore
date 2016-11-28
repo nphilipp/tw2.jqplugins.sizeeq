@@ -1,0 +1,6 @@
+/build
+/dist
+/tw2.jqplugins.sizeeq.egg-info
+/.eggs
+/.coverage
+*.py?
